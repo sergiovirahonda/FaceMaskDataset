@@ -6,4 +6,4 @@ val: ../FaceMaskDataset/images/val/
 nc: 2
 
 # class names
-names: ['Wearing face mask', 'Not wearing face mask']
+names: ['face mask', 'No face mask']
